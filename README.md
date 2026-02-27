@@ -22,6 +22,7 @@ Generates a complete map on run — no manual placement needed.
 | |
 |---|
 | ![Preview](TerrainGenerator.png) |
+[Source code](Generator.server.luau)
 
 ---
 
